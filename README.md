@@ -52,7 +52,8 @@ emails.csv
 emails1.csv
 ...
 🤖 Author
-Built by Crypt Saiyaan. Contributions welcome. Let's upgrade together!
+Built by Williams Divine. Contributions welcome. Let's upgrade together!
+Also pls give a stars
 
 🧠 TODO / Coming Soon
  Automatically scroll using bot
